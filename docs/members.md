@@ -8,9 +8,15 @@
 
 ## Guild sub-leaders
 
-* xx太郎 ()
-* 以下略
+* 拘霊太郎 (Lv.242)
+	* EunWol
+* tしょーきb (Lv.235)
+	* DaemonSlayer
+* Adラスカル (Lv.237)
+	* Adele
 
 ## Guild members
+* sayaho
+* るみっぽん
 
-last update: 2020 / 10 / 07
+last update: 2021 / 05 / 02
