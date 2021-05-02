@@ -6,5 +6,8 @@ Please check the below links:
 * [Description](/docs/description.md)
 * [Information](/docs/information.md)
 * [Weekly-boss](/docs/boss-event.md)
+	* [Countermeasures for Sue](/docs/boss/sue.md)
+	* [Countermeasures for Damien](/docs/boss/damien.md)
+	* [Countermeasures for Lucid](/docs/boss/lucid.md)
 
 last update: 2021 / 05 / 02
