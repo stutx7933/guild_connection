@@ -25,12 +25,13 @@
 	* 欠片を交換して補助武器に
 * クロス(Normal)
 	* 稀に魔性の指輪をドロップ
+* 明智(Normal)
+	* コイン、160銀狼武器をドロップ
 
 ## Daily boss information
 回るべきボスたち
 
 * マグナス(Normal)
-* カウン(Normal)
 * ビシャスプラント(Normal)
 * ヴァンレオン(Hard)
 * ホーンテイル(Chaos)
@@ -40,4 +41,4 @@
 * ヴェラッド(Hell)
 	* 稀に最上級ペンダント、ベルトをドロップ
 
-last update: 2020 / 10 / 07
+last update: 2021 / 05 / 02
