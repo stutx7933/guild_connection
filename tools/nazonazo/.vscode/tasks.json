@@ -1,0 +1,41 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "kotlinc",
+            "args": [
+                "./src/main/kotlin/com/stutx/conditionmatcher/*.kt",
+                "./src/main/kotlin/com/stutx/conditionmatcher/conditions/*.kt",
+                "-include-runtime",
+                "-d",
+                "./build/main.jar"
+            ],
+            "presentation": {
+                "reveal": "always"
+            },
+            "group": "build"
+        },
+        {
+            "label": "executeJar",
+            "type": "shell",
+            "command": "java",
+            "args": [
+                "-jar",
+                "./build/main.jar"
+            ],
+            "presentation": {
+                "reveal": "always"
+            },
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "dependsOn": [ "build" ]
+        }
+    ]
+}
