@@ -5,9 +5,9 @@
 Event was held in 2021/05, detail is as below:
 https://maplestory.nexon.co.jp/notice/view/953201/?id=all
 
-|公開日|なぞなぞ|答え|アイテム|
-|5月2日(日)|
-ヒント①
+| 公開日 | なぞなぞ | 答え | アイテム |
+| --- | --- | --- | --- |
+| 5月2日(日) | ヒント①\
  散歩路\
 ヒント②\
  以下から導き出される数字を手掛かりに\
@@ -16,9 +16,7 @@ https://maplestory.nexon.co.jp/notice/view/953201/?id=all
 　・各桁の数を全てかけあわせると16\
 ヒント③:合言葉\
  GM「かえでで花」の最後の台詞に含まれる\
-英字の大文字だけをつなげて|
-MCD|
-嵐の成長の秘薬(1個)|
+英字の大文字だけをつなげて | MCD | 嵐の成長の秘薬(1個) |
 
 ## Documents for this tool
 
@@ -32,7 +30,7 @@ So please install kotlin standalone compiler.
 ### On VSCode
 
 Press `Command`+`Shift`+`B` key.\
-The task to build and execute output is written in .vscode/tasks.json.
+The task to build and execute output is written in `.vscode/tasks.json`.
 
 ### Without tools
 

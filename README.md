@@ -9,5 +9,7 @@ Please check the below links:
 	* [Countermeasures for Sue](/docs/boss/sue.md)
 	* [Countermeasures for Damien](/docs/boss/damien.md)
 	* [Countermeasures for Lucid](/docs/boss/lucid.md)
+* Tools
+	* [なぞなぞイベント(2021/05/02)](/tools/nazonazo/README.md)
 
 last update: 2021 / 05 / 02
