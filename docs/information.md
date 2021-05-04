@@ -1,44 +1,13 @@
 # Information
 
-## Weekly boss information
-行くべきボスたち
+## 公式イベント系
 
-* ジャクム(Chaos)
-* マグナス(Hard)
-	* タイラントマント各種
-	* コインで靴・ベルト交換可
-* ヒルラ(Hard)
-* ビシャスプラント(Chaos)
-	* 稀に目飾り、椅子をドロップ
-* バンバン(Chaos)
-* ピエール(Chaos)
-* ブラッディクイーン(Chaos)
-* ベルルム(Chaos)
-* ピンクビーン(Chaos)
-	* 稀に目飾りをドロップ
-* シグナス(Normal)
-* スウ(Normal / Hard)
-* デミアン(Normal / Hard)
-* ルシード(Easy / Normal / Hard)
-* ウィル(Normal / Hard)
-* ノウヒメ(Normal)
-	* 欠片を交換して補助武器に
-* クロス(Normal)
-	* 稀に魔性の指輪をドロップ
-* 明智(Normal)
-	* コイン、160銀狼武器をドロップ
+Discordのjfyiチャンネルを確認のこと\\
+本家サイト\
+https://maplestory.nexon.co.jp/notice/list/
 
-## Daily boss information
-回るべきボスたち
+GWイベント各種
 
-* マグナス(Normal)
-* ビシャスプラント(Normal)
-* ヴァンレオン(Hard)
-* ホーンテイル(Chaos)
-	* 稀に魂の書をドロップ
-* アカイラム(Normal)
-	* 稀にドミネーターペンダント、太初の浄水をドロップ
-* ヴェラッド(Hell)
-	* 稀に最上級ペンダント、ベルトをドロップ
+## ギルドイベント系
 
-last update: 2021 / 05 / 02
+今の所予定なし
