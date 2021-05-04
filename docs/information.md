@@ -2,7 +2,7 @@
 
 ## 公式イベント系
 
-Discordのjfyiチャンネルを確認のこと\\
+Discordのjfyiチャンネルを確認のこと\
 本家サイト\
 https://maplestory.nexon.co.jp/notice/list/
 
