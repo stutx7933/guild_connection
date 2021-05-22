@@ -1,11 +1,11 @@
 # ギルドミーティング
 
-## Attenndee
+## Attendee
 * 太郎ちゃん
 * ラスカル
 * Stut (書記)
 
-## Excecutive summary
+## Executive summary
 
 * 週ボスの目的を明確にする
 * 週ボスイベントで決めておくことを明確にする
