@@ -4,6 +4,7 @@ Please check the below links:
 
 * [Information](/docs/information.md)
 * [Members](/docs/members.md)
+* [Meetings](/docs/mtg/MeetingLog_top.md)
 * [Bosses](/docs/boss/boss.md)
 	* [Countermeasures for Sue](/docs/boss/sue.md)
 	* [Countermeasures for Damien](/docs/boss/damien.md)
