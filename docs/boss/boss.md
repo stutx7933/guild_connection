@@ -3,6 +3,7 @@
 ## Weekly boss event
 
 運用ルールは[こちら](/docs/boss/weekly_boss_event.md)
+[強くなるために](/docs/boss/enhancement.md)も参考にされたし
 
 ## Weekly boss list
 
