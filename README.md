@@ -1,17 +1,18 @@
 # Connection
+JapanMapleStoryのゆかりサーバで活動しているギルド"Connection"のページです\
+下記のリンクをチェックしてみてね
+
 This is the page for guild "Connection" which is active in Yukari server of Japan MapleStory(JMS)  
 Please check the below links:
 
-* [Information](/docs/information.md)
-	* [Support Guild Member](/docs/growup-support.md)
-* [Members](/docs/members.md)
-* [Meetings](/docs/mtg/MeetingLog_top.md)
-* [Bosses](/docs/boss/boss.md)
-	* [Weekly boss event(TBD)](/docs/boss/weekly_boss_event.md)
-		* [Countermeasures for Sue](/docs/boss/sue.md)
-		* [Countermeasures for Damien](/docs/boss/damien.md)
-		* [Countermeasures for Lucid](/docs/boss/lucid.md)
-* [Tools](/tools/)
+* [インフォーメーション Information](/docs/information.md)
+	* [メンバーへのサポート Support Guild Member](/docs/growup-support.md)
+* [メンバー Members](/docs/members.md)
+* [ミーティング Meetings](/docs/mtg/MeetingLog_top.md)
+* [ボス Bosses](/docs/boss/boss.md)
+	* [週ボスイベント Weekly boss event(TBD)](/docs/boss/weekly_boss_event.md)
+		* [スウ対策 Countermeasures for Sue](/docs/boss/sue.md)
+		* [デミアン対策 Countermeasures for Damien](/docs/boss/damien.md)
+		* [ルシード対策 Countermeasures for Lucid](/docs/boss/lucid.md)
+* [便利ツール Tools](/tools/)
 	* [なぞなぞイベント(2021/05/02)](/tools/nazonazo/)
-
-last update: 2021 / 05 / 02
