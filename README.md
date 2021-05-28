@@ -14,5 +14,6 @@ Please check the below links:
 		* [スウ対策 Countermeasures for Sue](/docs/boss/sue.md)
 		* [デミアン対策 Countermeasures for Damien](/docs/boss/damien.md)
 		* [ルシード対策 Countermeasures for Lucid](/docs/boss/lucid.md)
+	* [強くなるために For enhance yourself](/docs/boss/enhancement.md)
 * [便利ツール Tools](/tools/)
 	* [なぞなぞイベント(2021/05/02)](/tools/nazonazo/)
