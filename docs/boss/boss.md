@@ -2,7 +2,7 @@
 
 ## Weekly boss event
 
-運用ルールは[こちら](/docs/boss/weekly_boss_event.md)\
+運用ルールは[こちら](/docs/boss/weekly_boss_event.md)
 
 ## Weekly boss list
 
